@@ -10,7 +10,7 @@ const Name_and_sign = () => {
       <div className="Name_and_sign_outer_div">
         <div className="Name_and_sign_div">
           <span className="Name_sign_span">
-            Santosh Kumar Mishra <br />
+            Ambika Mishra <br />
             <strong>signature</strong>
           </span>
         </div>
