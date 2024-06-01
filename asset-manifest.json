@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/eatimation_page_sahils_engineering/static/css/main.856c83bc.css",
-    "main.js": "/eatimation_page_sahils_engineering/static/js/main.0921e85a.js",
+    "main.js": "/eatimation_page_sahils_engineering/static/js/main.5f8bbfc4.js",
     "index.html": "/eatimation_page_sahils_engineering/index.html",
     "main.856c83bc.css.map": "/eatimation_page_sahils_engineering/static/css/main.856c83bc.css.map",
-    "main.0921e85a.js.map": "/eatimation_page_sahils_engineering/static/js/main.0921e85a.js.map"
+    "main.5f8bbfc4.js.map": "/eatimation_page_sahils_engineering/static/js/main.5f8bbfc4.js.map"
   },
   "entrypoints": [
     "static/css/main.856c83bc.css",
-    "static/js/main.0921e85a.js"
+    "static/js/main.5f8bbfc4.js"
   ]
 }
