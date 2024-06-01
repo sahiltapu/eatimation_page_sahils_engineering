@@ -8,7 +8,7 @@ const Header_part_branding = () => {
         <table className="Branding_table">
           <tr>
             <td className="cellStyle">
-              <div className="Estimate_div">ESTIMATE</div>
+              <div className="Estimate_div">ESTIMATE/QUOTATION</div>
             </td>
             <td className="Date_Sl_td">
               <div>
@@ -16,13 +16,13 @@ const Header_part_branding = () => {
                   <tr>
                     <td><strong>Date :</strong></td>
                     <td>
-                      <input type="date" className="date_input"/>
+                      <input type="date" className="date_input" />
                     </td>
                   </tr>
                   <tr>
                     <td><strong>Sl.NO. :</strong></td>
                     <td>
-                      <input type="text" className="Sl_input"/>
+                      <input type="text" className="Sl_input" />
                     </td>
                   </tr>
                 </table>
